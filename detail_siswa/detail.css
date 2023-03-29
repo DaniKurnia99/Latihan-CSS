@@ -1,0 +1,33 @@
+.tabel-detail{
+    margin: auto;
+    width: 45%;
+    border-collapse: collapse;
+}
+
+.tabel-detail td{
+    border-bottom: 1px solid;
+    padding: 15px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.tabel-detail a{
+    background-color: green;
+    border: 0;
+    border-radius: 4px;
+    color: white;
+    text-align: center;
+    padding: 12px 24px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.tabel-detail .kembali{
+    border: 0;
+    padding: 25px;
+    vertical-align: bottom;
+}
